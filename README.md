@@ -15,4 +15,4 @@ Enjoy my profile.
 
 
 # :bar_chart: GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zapotoczn&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoFRJunior&theme=dark&hide_border=false)<br/>  
