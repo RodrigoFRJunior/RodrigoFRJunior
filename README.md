@@ -8,7 +8,7 @@ Enjoy my profile.
 </div>
   <br>
 <div>
-  <a href="https://www.linkedin.com/in/rodrigo-felipe-1b4992233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rodrigo-felipe-1b4992233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></a> 
 </div>
  
   <br>
