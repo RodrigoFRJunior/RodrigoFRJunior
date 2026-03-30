@@ -1,4 +1,4 @@
-### Hiii!!! I'm Rodrigo, nice to meet you.
+### Olá, eu sou o Rodrigo Felipe ✌
 
 Enjoy my profile.
 
@@ -12,8 +12,3 @@ Enjoy my profile.
   <a href="https://www.linkedin.com/in/rodrigo-felipe-1b4992233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
-  <br>
-
-
-# :bar_chart: GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoFRJunior&theme=dark&hide_border=false)<br/>  
